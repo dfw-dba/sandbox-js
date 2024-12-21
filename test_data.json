@@ -1,0 +1,7 @@
+{
+    "name": "Main Topic",
+    "children": [
+      { "name": "Subtopic 1", "children": [{"name": "Detail 1"}, {"name": "Detail 2"}] },
+      { "name": "Subtopic 2", "children": [{"name": "Detail 3"}, {"name": "Detail 4"}] }
+    ]
+  }
